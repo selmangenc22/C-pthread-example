@@ -1,6 +1,6 @@
 # Parallel Prime Number Search
 
-This is a C program that searches for prime numbers in parallel using multiple threads. The program allows the user to specify the number of threads to use and searches for prime numbers between 0 and a predefined maximum range. The program uses the [pthread](https://man7.org/linux/man-pages/man7/pthreads.7.html) library for creating and managing threads.
+This is a C program that searches for prime numbers in parallel using multiple threads. The program allows the user to specify the number of threads to use and searches for prime numbers between 0 and a predefined maximum range. It then prints the time taken for the sequential/parallel search to complete. The program uses the [pthread](https://man7.org/linux/man-pages/man7/pthreads.7.html) library for creating and managing threads.
 
 ## Program Structure
 
