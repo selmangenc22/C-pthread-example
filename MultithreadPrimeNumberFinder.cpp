@@ -4,7 +4,7 @@
 #include <math.h>
 #include <ctime>
 
-#define NUMBER_RANGE_MAX 200000
+#define NUMBER_RANGE_MAX 200000000
 
 int threadCount;
 
